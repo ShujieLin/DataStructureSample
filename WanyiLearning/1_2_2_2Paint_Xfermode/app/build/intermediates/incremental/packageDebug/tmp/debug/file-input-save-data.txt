@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Sep 21 20:27:05 CST 2020
+1.base=E\:\\AndroidStudioProjects\\WanyiLearning\\1_2_2_2Paint_Xfermode\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=E\:\\AndroidStudioProjects\\WanyiLearning\\1_2_2_2Paint_Xfermode\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+1.path=classes.dex

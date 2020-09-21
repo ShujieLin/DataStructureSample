@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\cee29d41397e6024a4f541c0f70281f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\a48e5e4613736d45cca13489a68a7657\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\994e185577e1df5c494963e458bca892\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\e0645bc295f79c392d3212a66df65da4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\2e4d14249e2825aad77ca8b281c39f45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\af26d85753056cd1be2510324ea62804\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\f6fb76c9bcba499b2206f6637d95f371\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\cf6363299e5e50d9e24571a08a6fe0e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\8af914af28dd7357b814ace7c79782e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\7e0de774319988bb2d67bf128ef63be0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\8f754d7129d13bb54c8c6bca802d636e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\9fbf911e2c3a23e803f26b20b6c78644\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\d1ce13f54bd4030da27e0a4301b3cfaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\71e06347a7238ae968cbccb604945a47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\f8c1f8d7f6c6688d8123d4b53e4d3116\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\15b77ba66219b657cec48f82c9c54e52\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\7d2ab08560a9cf80598c51ef215d15fe\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\190e04c27375ea60ea0561daa902d035\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\1fd10be6249186d98fede35ccad81471\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\bbd5bdcae38fcf2299c4c42acffa1694\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\c8c63527a472a11a189dafbd98cd3e79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\6de20022d51d8567eabc89edb5b3b59a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\997247b8e490d73e5cb29c8dfda1762f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\d9ad483b9f16c580a65cd374d0a9538d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\bc8cbd2a1158dc81045a69239720c9fd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\0a3af9b7330f299a1fd687a546a9254c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\2f9882a0ea742fdb746e992e7e8a283d\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:6:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\a48e5e4613736d45cca13489a68a7657\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\a48e5e4613736d45cca13489a68a7657\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\15b77ba66219b657cec48f82c9c54e52\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\15b77ba66219b657cec48f82c9c54e52\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\7d2ab08560a9cf80598c51ef215d15fe\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\7d2ab08560a9cf80598c51ef215d15fe\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\15b77ba66219b657cec48f82c9c54e52\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:13:9-48
+	android:roundIcon
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.netease.paint.xfermode.XfermodeActivity
+ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:14:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\cee29d41397e6024a4f541c0f70281f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\cee29d41397e6024a4f541c0f70281f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\a48e5e4613736d45cca13489a68a7657\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\a48e5e4613736d45cca13489a68a7657\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\994e185577e1df5c494963e458bca892\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\994e185577e1df5c494963e458bca892\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\e0645bc295f79c392d3212a66df65da4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\e0645bc295f79c392d3212a66df65da4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\2e4d14249e2825aad77ca8b281c39f45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\2e4d14249e2825aad77ca8b281c39f45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\af26d85753056cd1be2510324ea62804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\af26d85753056cd1be2510324ea62804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\f6fb76c9bcba499b2206f6637d95f371\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\f6fb76c9bcba499b2206f6637d95f371\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\cf6363299e5e50d9e24571a08a6fe0e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\cf6363299e5e50d9e24571a08a6fe0e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\8af914af28dd7357b814ace7c79782e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\8af914af28dd7357b814ace7c79782e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\7e0de774319988bb2d67bf128ef63be0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\7e0de774319988bb2d67bf128ef63be0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\8f754d7129d13bb54c8c6bca802d636e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\8f754d7129d13bb54c8c6bca802d636e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\9fbf911e2c3a23e803f26b20b6c78644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\9fbf911e2c3a23e803f26b20b6c78644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\d1ce13f54bd4030da27e0a4301b3cfaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\d1ce13f54bd4030da27e0a4301b3cfaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\71e06347a7238ae968cbccb604945a47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\71e06347a7238ae968cbccb604945a47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\f8c1f8d7f6c6688d8123d4b53e4d3116\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\f8c1f8d7f6c6688d8123d4b53e4d3116\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\15b77ba66219b657cec48f82c9c54e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\15b77ba66219b657cec48f82c9c54e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\7d2ab08560a9cf80598c51ef215d15fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\7d2ab08560a9cf80598c51ef215d15fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\190e04c27375ea60ea0561daa902d035\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\190e04c27375ea60ea0561daa902d035\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\1fd10be6249186d98fede35ccad81471\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\1fd10be6249186d98fede35ccad81471\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\bbd5bdcae38fcf2299c4c42acffa1694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\bbd5bdcae38fcf2299c4c42acffa1694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\c8c63527a472a11a189dafbd98cd3e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\c8c63527a472a11a189dafbd98cd3e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\6de20022d51d8567eabc89edb5b3b59a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\6de20022d51d8567eabc89edb5b3b59a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\997247b8e490d73e5cb29c8dfda1762f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\997247b8e490d73e5cb29c8dfda1762f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\d9ad483b9f16c580a65cd374d0a9538d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\d9ad483b9f16c580a65cd374d0a9538d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\bc8cbd2a1158dc81045a69239720c9fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\bc8cbd2a1158dc81045a69239720c9fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\0a3af9b7330f299a1fd687a546a9254c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\0a3af9b7330f299a1fd687a546a9254c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\2f9882a0ea742fdb746e992e7e8a283d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ShujieL\.gradle\caches\transforms-2\files-2.1\2f9882a0ea742fdb746e992e7e8a283d\AndroidManifest.xml:20:5-44
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\WanyiLearning\1_2_2_2Paint_Xfermode\app\src\main\AndroidManifest.xml
